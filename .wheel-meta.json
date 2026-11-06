@@ -1,0 +1,22 @@
+{
+  "wheel_id": 776,
+  "structure": "umbrella",
+  "slug": "melbournenorthkitchenrenovation-107",
+  "project": "kitchen-renovations-melbourne-north-maintenance-585f9e899c5a07b",
+  "parent_t1_ref": "melbournenorthkitchenrenovation-153",
+  "node_role": "feeder",
+  "money_target": "melbournenorthkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne north maintenance",
+  "intended_url": "https://sites-e470-2.web.app/kitchen-renovations-melbourne-north-maintenance-585f9e899c5a07b/",
+  "tier": "T2",
+  "writeback_nonce": "21c3aebe748e8b3d",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-melbourne-north-materials-compared-c9256834/",
+      "anchor": "kitchen renovations melbourne north materials compared",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
